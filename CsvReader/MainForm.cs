@@ -35,7 +35,7 @@ namespace CsvReader
 
         private void msiHelp_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://mrfff.ct8.pl/programs/mcsv-reader");
+            System.Diagnostics.Process.Start("https://mrfff.ct8.pl/programs/mcsv.php");
         }
 
         private void msiAbout_Click(object sender, EventArgs e)

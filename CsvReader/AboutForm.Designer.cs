@@ -123,6 +123,7 @@
             this.MinimizeBox = false;
             this.Name = "AboutForm";
             this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "mCSV Reader";
             this.ResumeLayout(false);
             this.PerformLayout();

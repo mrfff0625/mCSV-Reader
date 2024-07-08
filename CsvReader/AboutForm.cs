@@ -12,7 +12,7 @@ namespace CsvReader
 
         private void lnkGit_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/mrfff0625/mCSV");
+            System.Diagnostics.Process.Start("https://github.com/mrfff0625/mCSV-Reader");
         }
 
         private void btnOK_Click(object sender, EventArgs e)
